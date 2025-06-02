@@ -1,0 +1,66 @@
+# 🎓 University Info-Sharing Platform
+
+A digital platform for MBA students and university stakeholders to access academic and committee-related information with the help of an agentic AI assistant.
+
+---
+
+## 🚀 Project Overview
+
+**Goal:** Create a centralized digital platform where students can access course, event, and committee information using natural language queries, powered by AI.
+
+**Duration:** 3 Months (12 Weeks)
+
+**Core Features:**
+- Semester calendar view
+- Event and course lookup
+- Committee and workshop information
+- Agentic AI assistant to interpret queries
+- Feedback collection and summarization
+
+---
+
+## 🧱 Tech Stack
+
+| Layer | Tools |
+|------|-------|
+| Frontend | React / Streamlit |
+| Backend | FastAPI (Python) |
+| Database | PostgreSQL |
+| AI Assistant | OpenAI GPT-4.5 + LangChain |
+| Deployment | Vercel (FE), Render (BE), Railway (DB) |
+
+---
+
+## 🤖 AI Agent Capabilities
+
+- Interpret natural language queries
+- Convert into SQL queries (LangChain + OpenAI)
+- Query PostgreSQL and fetch data
+- Provide formatted results
+- Summarize feedback and suggest improvements
+
+## 📽️ Example User Queries
+
+- "When is the next committee workshop?"
+- "Which courses have autonomy?"
+- "What did students say about the last CWC event?"
+- "List upcoming events hosted by the marketing committee."
+
+---
+
+## 📬 Future Scope
+
+- Google Calendar sync
+- Mobile app (React Native)
+- Admin panel for event updates
+- Feedback sentiment analysis
+
+---
+
+## 📄 License
+MIT License
+
+---
+
+## 🙋 Want to Contribute?
+Ping the project owner or raise an issue with your interest.
