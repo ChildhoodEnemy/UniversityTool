@@ -8,8 +8,6 @@ A digital platform for MBA students and university stakeholders to access academ
 
 **Goal:** Create a centralized digital platform where students can access course, event, and committee information using natural language queries, powered by AI.
 
-**Duration:** 3 Months (12 Weeks)
-
 **Core Features:**
 - Semester calendar view
 - Event and course lookup
@@ -23,7 +21,7 @@ A digital platform for MBA students and university stakeholders to access academ
 
 | Layer | Tools |
 |------|-------|
-| Frontend | React / Streamlit |
+| Frontend | React |
 | Backend | FastAPI (Python) |
 | Database | PostgreSQL |
 | AI Assistant | OpenAI GPT-4.5 + LangChain |
